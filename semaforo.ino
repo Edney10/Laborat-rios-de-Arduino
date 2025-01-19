@@ -1,5 +1,5 @@
 /*
-Programador....: (C) 2024 Ricardo Pires
+Programador....: (C) 2024 Edney silva
 Data................: 13/12/2024
 Observações....: Semáforo
 */
